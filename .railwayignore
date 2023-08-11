@@ -1,0 +1,4 @@
+# .railwayignore
+
+.cache
+.nixpacks
