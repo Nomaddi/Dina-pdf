@@ -1,5 +1,0 @@
-# railway.yml
-
-name: my-app
-builder:
-  use: "Dockerfile"
